@@ -9,7 +9,7 @@ chardet==3.0.4
 constantly==15.1.0
 cryptography==2.8
 dateparser==0.7.2
-future==0.18.2
+future==0.18.3
 gunicorn==20.0.4
 hyperlink==19.0.0
 idna==2.8
